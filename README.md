@@ -40,8 +40,6 @@ deep-research-arweave/
 │   └── es/
 │       └── prompts/
 │           └── translate.md
-├── _templates/                             # Shared templates for research/translation
-│   └── translation-template.md
 └── tools/                                  # Optional scripts/utilities
     ├── generate-tag-index.ts
     └── check-missing-translations.ts

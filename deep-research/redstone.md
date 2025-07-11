@@ -27,7 +27,7 @@ Be precise and objective. No speculation.
 
 ---
 
-# RedStone Oracle
+# Output
 
 ## Overview
 

@@ -8,7 +8,7 @@ tags: [ao, prorocol, arfleet, developer]
 
 [Prompt]
 
-```
+```markdown
 Please conduct a detailed technical investigation into **Arweave’s ArFleet**, specifically from the perspective of **Web3 developers** considering integration into real-world dApps.
 
 ### Information Source Prioritization (Only use primary sources published **after July 2024**):
@@ -19,54 +19,55 @@ Please conduct a detailed technical investigation into **Arweave’s ArFleet**, 
 4. Developer posts on X (formerly Twitter) by ao/acc and Arweave core contributors
 5. Publicly shared AMA transcripts, community calls, and presentations
 
-
 ## Output Structure (in Markdown)
 
 ### 1. Overview of ArFleet
 
-* Project definition and primary use cases (specifically in the context of Web3 apps)
-* Development entity (ao/acc Labs) and its relationship to AO and the Arweave core team
-* Current release status (mainnet, alpha, testnet availability)
+- Project definition and primary use cases (specifically in the context of Web3 apps)
+- Development entity (ao/acc Labs) and its relationship to AO and the Arweave core team
+- Current release status (mainnet, alpha, testnet availability)
 
 ### 2. Technical Architecture and Integration Design
 
-* System components relevant to developers (Actor-based flow, data handling scope)
-* Architecture on AO: how Actors, Processes, and Executors are used
-* Supported operations (store, fetch, delete)
-* Integration points with Arweave (when and how data is persisted)
+- System components relevant to developers (Actor-based flow, data handling scope)
+- Architecture on AO: how Actors, Processes, and Executors are used
+- Supported operations (store, fetch, delete)
+- Integration points with Arweave (when and how data is persisted)
 
 ### 3. API, SDK, and Tooling
 
-* Available SDKs and APIs (focus on `arfleet-js`)
-* JS/TS usage examples (e.g., uploading ephemeral JSON, files)
-* Deployment setup: how to install, configure, and start using ArFleet
-* Testing options (local dev mode, AO testnet)
+- Available SDKs and APIs (focus on `arfleet-js`)
+- JS/TS usage examples (e.g., uploading ephemeral JSON, files)
+- Deployment setup: how to install, configure, and start using ArFleet
+- Testing options (local dev mode, AO testnet)
 
 ### 4. Integration & Usage Examples
 
-* Real dApp integration patterns (e.g., AI agents, dashboards, ephemeral user data)
-* Compatibility with other AO actors or external chains
-* Supported data formats (binary, JSON, etc.)
+- Real dApp integration patterns (e.g., AI agents, dashboards, ephemeral user data)
+- Compatibility with other AO actors or external chains
+- Supported data formats (binary, JSON, etc.)
 
 ### 5. Incentives and Payment Logic
 
-* How developers and users are charged (via \$AO or \$AR)
-* How to integrate billing into a dApp (user-pays, subsidized, hybrid models)
-* Whether ArFleet has (or plans to have) a native token — and why \[mark as “TBD” if unknown]
+- How developers and users are charged (via \$AO or \$AR)
+- How to integrate billing into a dApp (user-pays, subsidized, hybrid models)
+- Whether ArFleet has (or plans to have) a native token — and why \[mark as “TBD” if unknown]
 
 ### 6. Roadmap & Known Limitations
 
-* Short- and mid-term development plans
-* Current constraints (e.g., TTL duration, actor instance limits, storage quotas)
+- Short- and mid-term development plans
+- Current constraints (e.g., TTL duration, actor instance limits, storage quotas)
 
 ## Output Requirements
 
-* Use **Markdown format**
-* Include **reliable source links** in each section
-* Include code snippets or diagrams where appropriate
-* Clearly mark unknown or speculative information with `[TBD]` or `[To Be Confirmed]`
-* State the date of the research clearly at the top (e.g., “As of July 2025”)
+- Use **Markdown format**
+- Include **reliable source links** in each section
+- Include code snippets or diagrams where appropriate
+- Clearly mark unknown or speculative information with `[TBD]` or `[To Be Confirmed]`
+- State the date of the research clearly at the top (e.g., “As of July 2025”)
 ```
+
+# Output
 
 ### 1. Overview of ArFleet
 

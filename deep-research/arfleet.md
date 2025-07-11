@@ -68,14 +68,6 @@ Please conduct a detailed technical investigation into **Arweave’s ArFleet**, 
 * State the date of the research clearly at the top (e.g., “As of July 2025”)
 ```
 
-Great. I’ll perform a detailed technical investigation into Arweave’s ArFleet, with a focus on integration into real-world Web3 dApps—especially those involving AI Agents—and covering both frontend and backend perspectives.
-
-I’ll gather information from the official Arweave and ao/acc GitHub repositories, documentation, developer blogs, and posts published after July 2024. I’ll return a Markdown-formatted report structured according to your specifications, including code snippets, diagrams, integration patterns, and known limitations.
-
-I’ll notify you as soon as the research is ready for your review.
-
-As of **July 2025**, below is a comprehensive technical overview of **Arweave’s ArFleet** from a Web3 developer’s perspective, focusing on real-world dApp integration.
-
 ### 1. Overview of ArFleet
 
 **Definition & Purpose:** ArFleet is a decentralized **temporary storage** protocol built on Arweave’s new AO (Actor-Oriented) compute environment. It enables **time-bound data storage** deals between clients and storage providers, complementing Arweave’s permanent storage by allowing developers to store data **only for a finite period** instead of forever. In practical terms, ArFleet gives Web3 applications a **flexible, cost-effective** option for ephemeral data that doesn’t need perpetual preservation. For example, dApps can use ArFleet for session data, cache files, AI model outputs, message drafts, or any content with a short useful lifetime, avoiding the higher cost of permanent on-chain storage.

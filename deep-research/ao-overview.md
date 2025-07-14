@@ -6,7 +6,7 @@ url: https://chatgpt.com/share/6870d439-e250-8000-925a-1d45e5ff3619
 tags: [ao, developer]
 ---
 
-[Prompt]
+[PROMPT]
 
 ```markdown
 Please conduct a technical investigation into Arweave’s AO (Actor Oriented Protocol) from the perspective of Web3 developers.
@@ -105,7 +105,7 @@ Please conduct a technical investigation into Arweave’s AO (Actor Oriented Pro
 
 ---
 
-# [Output]
+# [OUTPUT]
 
 # Arweave AO (Actor-Oriented Protocol) – Technical Overview
 

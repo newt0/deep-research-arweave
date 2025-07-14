@@ -6,7 +6,7 @@ url: https://chatgpt.com/s/dr_686f91c9e7108191abcfe84fed8b2c4d
 tags: [ao, prorocol, developer, redstone, oracle]
 ---
 
-[Prompt]
+[PROMPT]
 
 ```markdown
 Research “What is RedStone Oracle?”
@@ -27,7 +27,7 @@ Be precise and objective. No speculation.
 
 ---
 
-# [Output]
+# [OUTPUT]
 
 ## Overview
 

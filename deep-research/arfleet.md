@@ -6,7 +6,7 @@ url: https://chatgpt.com/share/686f81ba-835c-8000-b0ee-8caebbe9e786
 tags: [ao, prorocol, arfleet, developer]
 ---
 
-[Prompt]
+[PROMPT]
 
 ```markdown
 Please conduct a detailed technical investigation into **Arweave’s ArFleet**, specifically from the perspective of **Web3 developers** considering integration into real-world dApps.
@@ -67,7 +67,7 @@ Please conduct a detailed technical investigation into **Arweave’s ArFleet**, 
 - State the date of the research clearly at the top (e.g., “As of July 2025”)
 ```
 
-# [Output]
+# [OUTPUT]
 
 ### 1. Overview of ArFleet
 

@@ -1,8 +1,30 @@
 ---
-title: RedStone Oracle
+title: RedStone
+platform: ChatGPT DeepResearch (GPT-4o)
+date: 2025-07-10
+url: https://chatgpt.com/s/dr_686f91c9e7108191abcfe84fed8b2c4d
+tags: [ao, prorocol, developer, redstone, oracle]
 translation_tool: ChatGPT (GPT-4o)
-translation_prompt: ""
 ---
+
+[PROMPT]
+
+```markdown
+Research “What is RedStone Oracle?”
+
+Target audience: developers, PMs, and investors. Use only factual information from primary sources published after July 2021 (GitHub, Docs, Blog, founder’s posts on X).
+
+Structure the output in Markdown with the following sections:
+
+1. Overview: launch year, goals, founding team
+2. Technical design: off-chain data collection, signing, Arweave storage, Push vs Pull delivery
+3. Why Arweave: rationale for choosing Arweave
+4. Performance: latency, update frequency, node architecture
+5. Use cases: examples like Pendle Finance
+6. Comparison: vs Chainlink and Pyth (cost, decentralization, token coverage, transparency)
+
+Be precise and objective. No speculation.
+```
 
 ## 概要（Overview）
 

@@ -60,7 +60,7 @@ url: https://chat.openai.com/share/abc123
 tags: [ao, project, developer, security, wasm]
 ---
 
-[Prompt]
+[PROMPT]
 
 ```markdown
 Please investigate...

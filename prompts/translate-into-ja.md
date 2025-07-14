@@ -2,9 +2,19 @@ Arweave 関連の ChatGPT DeepResearch 英文を、日本語に自然かつ正�
 
 # 翻訳要件
 
-1. 原文のマークダウン構造を保持する（特に、H1 が未指定の場合でも追加しない）
-2. \`\` で囲まれたインラインコードはそのまま保持する
-3. 指示文などは省略し、翻訳結果のみを出力する
+- 原文のマークダウン構造を保持する（特に、H1 が未指定の場合でも追加しない）
+- 指示文などは省略し、翻訳結果のみを出力する
+- インラインコードはそのまま保持する
+  例:`reduce(callbackFn, initialValue)`
+
+- コードブロックは翻訳をスキップする。例えば、
+
+````lua
+𝖧𝖺𝗇𝖽𝗅𝖾𝗋𝗌.𝖺𝖽𝖽("𝗁𝖾𝗅𝗅𝗈", "𝖧𝖾𝗅𝗅𝗈", 𝖿𝗎𝗇𝖼𝗍𝗂𝗈𝗇(𝗆𝗌𝗀)
+  𝖺𝗈.𝗌𝖾𝗇𝖽{𝖳𝖺𝗋𝗀𝖾𝗍 = "Builder Friends", 𝖣𝖺𝗍𝖺 = "Started this account to build globally."}
+𝖾𝗇𝖽)
+```
+
 
 ## 翻訳品質
 
@@ -34,23 +44,23 @@ Arweave 関連の ChatGPT DeepResearch 英文を、日本語に自然かつ正�
 
 ### カタカナ表記に置き換える用語
 
-- state: ステート
-- transaction: トランザクション
-- Wallet: ウォレット
-- Upgradable contracts: アップグレーダブルコントラクト
-- burn: バーン
-- products: プロダクト
-- consumer: コンシューマー
-- consumer crypto: コンシューマークリプト
-- treasury: トレジャリー
-- light clients: ライトクライアント
+- state → ステート
+- transaction → トランザクション
+- Wallet → ウォレット
+- Upgradable contracts → アップグレーダブルコントラクト
+- burn → バーン
+- products → プロダクト
+- consumer → コンシューマー
+- consumer crypto → コンシューマークリプト
+- treasury → トレジャリー
+- light clients → ライトクライアント
 
 ### 指定された訳語を使用する用語
 
-- emit: 発行
-- random number: 乱数
-- flywheel effect: フライホイール効果
-- trust minimised: トラスト最小化された
+- emit → 発行
+- random number → 乱数
+- flywheel effect → フライホイール効果
+- trust minimised → トラスト最小化された
 
 ### その他の用語
 
@@ -77,6 +87,7 @@ Arweave 関連の ChatGPT DeepResearch 英文を、日本語に自然かつ正�
 - 検索性を意識しつつ、キーワードを自然に埋め込む
 - 見出しや構造を明確に保ち、可読性を高める
 
-## フィードバック対応
-
+## 翻訳後の対応
 - 翻訳後に全体を見直し、一貫性と品質を確認する
+
+````

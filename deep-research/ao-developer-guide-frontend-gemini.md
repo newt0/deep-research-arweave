@@ -295,9 +295,9 @@ theme={{
 </AOWalletKit>
 );
 }
-```
 
 export default MyApp;
+```
 
 #### TypeScript Type Support
 

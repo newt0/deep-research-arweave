@@ -55,7 +55,7 @@ deep-research-arweave/
 また、LLM は英語に最適化されており、Web3 の情報発信も英語が支配的であるため、基本的に英語を使用する。
 `deep-research/` 配下でリサーチ結果は意図的にフラットに配置する。ディレクトリを分割すると、どのディレクトリにファイルを置くべきか？という意思決定コストが生じるため。
 
-```markdown
+````markdown
 ---
 title: AO Executor Security Model
 platform: ChatGPT DeepResearch (GPT-4o)
@@ -64,16 +64,20 @@ url: https://chat.openai.com/share/abc123
 tags: [ao, project, developer, security, wasm]
 ---
 
-## Prompt
+[Prompt]
 
+```markdown
 Please investigate...
+```
 
 ---
 
-## Output
+# [OUTPUT]
 
+```markdown
 [出力全文]
 ```
+````
 
 ## 📝 translations/ 配下のファイル構成（翻訳）
 
@@ -124,3 +128,7 @@ translation_prompt: ja/prompts/translation-v1.md
 
 - `tags:` に基づいて一覧生成や分類を行うツール（Node.js/Python など）も今後導入予定
 - 翻訳も自動化予定。Claude Code Hooks を活用した、静的処理 + LLM 処理の統合翻訳ツールを開発中
+
+```
+
+```

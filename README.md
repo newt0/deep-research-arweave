@@ -51,25 +51,29 @@ These files contain original research output, including the prompt, LLM-generate
 All content is stored in a single Markdown file using **YAML front matter + Markdown body**.
 All research is conducted in English for LLM performance and ecosystem relevance (especially in Web3 contexts).
 
-```markdown
+````markdown
 ---
 title: AO Executor Security Model
 platform: ChatGPT DeepResearch (GPT-4o)
 date: 2025-07-10
 url: https://chat.openai.com/share/abc123
-tags: [ao, project, developer, security]
+tags: [ao, project, developer, security, wasm]
 ---
 
-## Prompt
+[Prompt]
 
-[Full prompt]
-
----
-
-## Output
-
-[Full output]
+```markdown
+Please investigate...
 ```
+
+---
+
+# Output
+
+```markdown
+[出力全文]
+```
+````
 
 ## 📝 `translations/` File Format (Multilingual)
 
@@ -80,7 +84,7 @@ translation_tool: ChatGPT (GPT-4o)
 translation_prompt: ja/prompts/translation-v1.md
 ---
 
-## Summary
+# [OUTPUT]
 
 ...
 

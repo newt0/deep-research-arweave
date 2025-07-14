@@ -67,7 +67,7 @@ Please conduct a detailed technical investigation into **Arweave’s ArFleet**, 
 - State the date of the research clearly at the top (e.g., “As of July 2025”)
 ```
 
-# Output
+# [Output]
 
 ### 1. Overview of ArFleet
 

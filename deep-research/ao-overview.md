@@ -105,19 +105,7 @@ Please conduct a technical investigation into Arweave’s AO (Actor Oriented Pro
 
 ---
 
-# Output
-
-Great. I’ll investigate Arweave’s AO protocol (Actor Oriented Protocol) with a technical focus tailored for Web3 developers.
-
-The report will include:
-
-- AO’s core design principles, execution model, and how it diverges from SmartWeave
-- Deep dive into AO components: Executors, Actors, Messages, Modules, Blueprints
-- Development background including key figures (e.g. Sam Williams), and affiliated organizations (Forward Research, Community Labs, ao/acc)
-- Detailed release history: alpha, beta, mainnet phases, and important updates
-- Practical insights and recommendations for Web3 developers on how to integrate or build on AO
-
-I’ll prioritize English-language sources published after February 2024, referencing official documentation, GitHub, blogs, and key community channels. I’ll share the findings with you in a markdown-formatted document.
+# [Output]
 
 # Arweave AO (Actor-Oriented Protocol) – Technical Overview
 

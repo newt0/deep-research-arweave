@@ -109,19 +109,6 @@ Please conduct a technical investigation into developing AO Processes for Arweav
 
 # [OUTPUT]
 
-Great. I’ll compile a comprehensive technical guide on building AO Processes for Arweave’s AO protocol using Lua.
-
-This will include foundational context, practical step-by-step instructions, and code examples across these focus areas:
-
-- Using ao-cli, ao-sdk, and Hooks to build and deploy custom Processes
-- Setting up local development and testing environments
-- Structuring Executors and managing message flows
-- Leveraging and composing AO Modules (e.g., token, counter)
-- Recommended project templates and GitHub repositories
-- Debugging and monitoring tools available for Lua developers
-
-I’ll prioritize English-language sources published after February 2024 and focus only on directly relevant AO protocol materials. I’ll let you know as soon as the guide is ready.
-
 # Developing AO Processes on Arweave’s AO Protocol with Lua
 
 ## Introduction: AO on Arweave – Permanent Storage Meets Infinite Compute

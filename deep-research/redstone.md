@@ -2,7 +2,7 @@
 title: RedStone
 platform: ChatGPT DeepResearch (GPT-4o)
 date: 2025-07-10
-url: https://chatgpt.com/s/dr_686f91c9e7108191abcfe84fed8b2c4d
+url: https://chatgpt.com/s/t_688833bc61e88191b23d37e095702e66
 tags: [ao, prorocol, developer, redstone, oracle]
 ---
 

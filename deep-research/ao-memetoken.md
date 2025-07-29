@@ -1,9 +1,9 @@
 ---
-title: AO Overview for Developer
+title: Memetoken on AO
 platform: ChatGPT DeepResearch (GPT-4o)
-date: 2025-07-11
+date: 2025-07-17
 url: https://chatgpt.com/s/t_688835be8558819195ae5c85c6dfedec
-tags: [ao, developer]
+tags: [ao, developer, memetoken]
 ---
 
 [PROMPT]
